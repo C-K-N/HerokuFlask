@@ -1,1 +1,1 @@
-web: gunicorn HerokuFlask:app
+web: gunicorn flask101:app
